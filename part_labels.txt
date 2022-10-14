@@ -1,0 +1,11 @@
+body
+head
+neck
+beak
+tail
+right_wing
+left_wing
+right_leg
+left_leg
+right_eye
+left_eye
