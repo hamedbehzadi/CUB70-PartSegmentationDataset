@@ -11,7 +11,7 @@ There are two files in this repository.
 
 1- part_labels.txt : this file contains the name of parts.
 
-2- AnnotationMasksPerclass: this file contains the part annotation masks for each class separately.
+2- AnnotationMasksPerclass.tar.xz: this file contains the part annotation masks for each class separately.
 
 
 ![CUB-Dataset](https://user-images.githubusercontent.com/45251957/195791993-8b1892a9-9799-4898-9d24-6566f18fa2a8.jpg)
