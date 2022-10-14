@@ -16,5 +16,3 @@ There are two files in this repository.
 
 ![CUB-Dataset](https://user-images.githubusercontent.com/45251957/195791993-8b1892a9-9799-4898-9d24-6566f18fa2a8.jpg)
 
-
-
