@@ -16,3 +16,13 @@ There are two files in this repository.
 
 ![CUB-Dataset](https://user-images.githubusercontent.com/45251957/195791993-8b1892a9-9799-4898-9d24-6566f18fa2a8.jpg)
 
+
+
+If you use the dataset in a publication, please cite the dataset as bellow.
+
+@article{eval_protocol,
+  title={A Protocol for Evaluating Model Interpretation Methods from Visual Explanations},
+  author={Behzadi-Khormouji, Hamed, Oramas, Jos{\'e}},
+  journal={Winter Conference on Applications of Computer Vision (WACV)},
+  year={2023}
+}
