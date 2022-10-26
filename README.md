@@ -20,6 +20,8 @@ There are two files in this repository.
 
 If you use the dataset in a publication, please cite the dataset as bellow.
 
+Hamed Behzadi-Khormouji, Jose Oramas. "A Protocol for Evaluating Model Interpretation Methods from Visual Explanations". Winter Conference on Applications of Computer Vision (WACV), 2023.  
+
 @article{eval_protocol,
   title={A Protocol for Evaluating Model Interpretation Methods from Visual Explanations},
   author={Behzadi-Khormouji, Hamed, Oramas, Jos{\'e}},
